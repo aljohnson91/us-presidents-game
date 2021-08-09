@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  timeinoffice: MyString
+  string: MyString
+  agewhenpresident: MyString
+  integer: MyString
+  highestapprovalrating: MyString
+  string: MyString
+  greatestachievement: MyString
+  string: MyString
+  worstpartofpresidency: MyString
+  string: MyString
+
+two:
+  name: MyString
+  timeinoffice: MyString
+  string: MyString
+  agewhenpresident: MyString
+  integer: MyString
+  highestapprovalrating: MyString
+  string: MyString
+  greatestachievement: MyString
+  string: MyString
+  worstpartofpresidency: MyString
+  string: MyString

@@ -4,7 +4,8 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)rails db:migrate RAILS_ENV=developmentrails db:migrate RAILS_ENV=developmentrails db:migrate RAILS_ENV=developmentrails db:
+#   Character.create(name: 'Luke', movie: movies.first)
+
 president1 = President.create!( name: 'John F Kennedy',
 timeinoffice: '2 years', 
 agewhenpresident: '43',
@@ -29,10 +30,3 @@ greatestachievement: 'Ending World War 2, 9',
 worstpartofpresidency: 'Not ending the Korean War, 4'
 )
 
-president4 = President.create!( name: 'Barack Obama',
-timeinoffice: '8 years', 
-agewhenpresident: '47',
-highestapprovalrating: '69',
-greatestachievement: 'Rescuing America from the recession, 8',
-worstpartofpresidency: 'Not closing Guantanamo Bay, 3'
-)
