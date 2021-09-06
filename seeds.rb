@@ -30,3 +30,18 @@ greatestachievement: 'Ending World War 2, 9',
 worstpartofpresidency: 'Not ending the Korean War, 4'
 )
 
+president4 = President.create!( name: 'Ronald Reagan',
+timeinoffice: '8 years', 
+agewhenpresident: '69',
+highestapprovalrating: '68',
+greatestachievement: 'Booming 80s economy, 9',
+worstpartofpresidency: 'Iran-Contra, 3'
+)
+
+president5 = President.create!( name: 'Dwight D Eisenhower',
+timeinoffice: '8 years', 
+agewhenpresident: '62',
+highestapprovalrating: '79',
+greatestachievement: 'Booming 50s economy, 9',
+worstpartofpresidency: 'Invasion of Iran, 3'
+)
